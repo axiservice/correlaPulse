@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CorrelaPulse</string>
+    <string name="tab_terminal">Grafici</string>
+    <string name="tab_alerts">Alert</string>
+    <string name="channel_correlation_name">Alert Correlazione</string>
+    <string name="channel_correlation_desc">Notifiche al superamento delle soglie di correlazione impostate</string>
+</resources>

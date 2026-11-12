@@ -1,0 +1,6 @@
+{
+  "name": "CorrelaPulse",
+  "description": "Quotazioni di borsa in tempo reale con massimo 2 grafici sincronizzati, calcolo dinamico della correlazione di Pearson e alert personalizzati sulle soglie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
