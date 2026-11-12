@@ -2,6 +2,12 @@
 
 Applicazione Android nativa in **Kotlin** e **Jetpack Compose** per la visualizzazione in tempo reale delle quotazioni di borsa tramite un massimo di **2 grafici sincronizzati** nella stessa videata, il tracciamento dinamico del **coefficiente di correlazione di Pearson ($r$)** e la gestione di **alert personalizzati** al superamento di soglie configurabili.
 
+## Videata Principale
+
+<p align="center">
+  <img src="docs/main_screen.jpg" alt="Videata principale di CorrelaPulse con 2 grafici sincronizzati e correlazione di Pearson" width="340" />
+</p>
+
 ---
 
 ## 1. Descrizione Funzionale
